@@ -1,0 +1,4 @@
+Djangoapp
+=========
+
+Python with Django
